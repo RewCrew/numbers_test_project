@@ -9,6 +9,7 @@
 ### Описание проекта:
 
 1) Получение данных с документа при помощи Google API
+`ссылка на гугл документ` - https://docs.google.com/spreadsheets/d/1mu6ZVdOLoFdC1KV2JliilzsrR4j82cxDSuVcDNOBdKE/edit#gid=0
 
 
 2) Для получения актуальнык котировок по курсу ЦБ РФ используется библиотека `pycbrf`
